@@ -1,0 +1,5 @@
+package com.thiruacademy.global.exception;
+
+public class GlobalExceptionHandler {
+
+}
